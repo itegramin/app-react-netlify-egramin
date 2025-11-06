@@ -24,7 +24,7 @@ const Header = () => {
         <Container>
           <div className="row">
             <div className="col-xl-4 col-lg-5 d-none d-lg-block">
-              <p className="mb-0">Welcome to e-Gramin</p>
+              <p className="mb-0">Welcome to e-Gramin UAT</p>
             </div>
             <div className="col-xl-8 col-lg-7 col-12 text-end">
               <div className="top-nav">
