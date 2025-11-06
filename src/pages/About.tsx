@@ -53,7 +53,7 @@ const About = () => {
           financial training by expert trainers (both technical and non technical part) 
           covering financial literacy, facilitation services for recovery of NPA, 
           awareness on insurance scheme etc. with the help of banking and insurance 
-          authorities.
+          authorities. 
         </p>
       </Container>
     </div>
